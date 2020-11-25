@@ -11,7 +11,7 @@ pipeline {
 
         stage('Say Goodbye') {
           steps {
-            echo 'I don\'t why you say hello.'
+            echo 'I don\'t know why you say hello.'
           }
         }
 
